@@ -6,6 +6,7 @@ import os
 from datetime import datetime
 
 #Función para extraer ciertos caracteres de una cadena.
+#Prueba repositorio
 def mid(s, offset, amount):
     return s[offset:offset+amount]
 
